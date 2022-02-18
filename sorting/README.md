@@ -23,4 +23,4 @@ This [“Data Structures and Algorithms in C++”](https://www.udemy.com/course/
 
 ## Copyright
 © Copyright Deepali Srivastava : All rights reserved.
-Not to be used for commercial purposes.
+Not to be used for commercial purposes
