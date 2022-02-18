@@ -10,7 +10,7 @@ This [“Data Structures and Algorithms in C++”](https://www.udemy.com/course/
  * Prepares you for coding interviews 
  * Lifetime Access
 
-### Courses by [Deepali Srivastava] (https://www.udemy.com/user/deepalisrivastava/)
+### Courses by [Deepali Srivastava](https://www.udemy.com/user/deepalisrivastava/)
 
 [![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-c-2](https://user-images.githubusercontent.com/98641125/153195975-d359113b-ff13-4aaa-9f06-6f600c0ddc69.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-2/?couponCode=GITHUBSTUDENT)
