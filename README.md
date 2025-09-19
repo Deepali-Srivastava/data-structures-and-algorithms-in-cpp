@@ -1,9 +1,11 @@
-# Data Structures and Algorithms in C++ ( DSA )
+# Data Structures and Algorithms (DSA) in C++ / C Plus Plus
 
-This [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
+This repository is for the students of my online course available on Udemy and CourseGalaxy. It contains the source code of all the programs used in the course. Students can explore our book [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) in detail for understanding all concepts and implementation.
+
+[![comprehensive-data-structures-algorithms-cpp](https://github.com/user-attachments/assets/19b4ff22-198c-4c99-8cd4-05c3dc4f7766)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
 
 ### About the Course
- * Instructor - Deepali Srivastava, Author of [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X)
+ * Instructor - Deepali Srivastava, Author of [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
  * Includes over 100 Quiz questions
