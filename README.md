@@ -2,8 +2,6 @@
 
 This repository is for the students of my online course. It contains the source code of all the programs used in the course. Students can explore our book [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) in detail for understanding all concepts and implementation.
 
-[![comprehensive-data-structures-algorithms-cpp](https://github.com/user-attachments/assets/19b4ff22-198c-4c99-8cd4-05c3dc4f7766)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
-
 ### About the Course
  * Instructor - Deepali Srivastava, Author of [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
  * Thoroughly detailed course with complete working programs
@@ -21,6 +19,9 @@ This repository is for the students of my online course. It contains the source 
 [![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
 [![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
 
+### Recommended Book
+
+[![comprehensive-data-structures-algorithms-cpp](https://github.com/user-attachments/assets/19b4ff22-198c-4c99-8cd4-05c3dc4f7766)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
 
 <!---
 [![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
